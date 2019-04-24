@@ -40,5 +40,13 @@
                 Grid.Column="1"
                 Grid.Row="3"
                 Margin="10" Grid.ColumnSpan="2" Click="SubmitButton_Click"/>
+
+        <Button x:Name="submitButton1" Content="No Event"
+                Grid.Column="1"
+                Grid.Row="4"
+                Margin="10" Grid.ColumnSpan="2"/>
     </Grid>
+
+    
+
 </Window>
